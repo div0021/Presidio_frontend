@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "title":"Is Django Still Relevant in 2024?",
+        "description":"Current state, async status, community and my humble opinion — In the ever-evolving field of web development, the Python-based framework Django has often been the subject of scrutiny. Current state, async status, community and my humble opinion — In the ever-evolving field of web development, the Python-based framework Django has often been the subject of scrutiny. Current state, async status, community and my humble opinion — In the ever-evolving field of web development, the Python-based framework Django has often been the subject of scrutiny.",
+        "author":"Simeon Emanuilov",
+        "createdAt":"26Feb,2024",
+        "topic":"Django",
+        "isFavourite":true,
+        "liked":true,
+        "author_img":"https://miro.medium.com/v2/resize:fill:176:176/1*1wVevQnjRLzHHakQ7_D2JA.jpeg",
+        "image":"https://miro.medium.com/v2/resize:fill:140:140/1*-Yj_vk-ViAYqPFna1RPaEw.jpeg"
+    },
+    {
+        "id":2,
+        "title":"Is Django Still Relevant in 2024?",
+        "description":"Current state, async status, community and my humble opinion — In the ever-evolving field of web development, the Python-based framework Django has often been the subject of scrutiny. Current state, async status, community and my humble opinion — In the ever-evolving field of web development, the Python-based framework Django has often been the subject of scrutiny. Current state, async status, community and my humble opinion — In the ever-evolving field of web development, the Python-based framework Django has often been the subject of scrutiny.",
+        "author":"Simeon Emanuilov",
+        "createdAt":"26Feb,2024",
+        "topic":"Django",
+        "isFavourite":true,
+        "liked":true,
+        "author_img":"https://miro.medium.com/v2/resize:fill:176:176/1*1wVevQnjRLzHHakQ7_D2JA.jpeg",
+        "image":"https://miro.medium.com/v2/resize:fill:140:140/1*-Yj_vk-ViAYqPFna1RPaEw.jpeg"
+    },
+    {
+        "id":3,
+        "title":"Is Django Still Relevant in 2024?",
+        "description":"Current state, async status, community and my humble opinion — In the ever-evolving field of web development, the Python-based framework Django has often been the subject of scrutiny. Current state, async status, community and my humble opinion — In the ever-evolving field of web development, the Python-based framework Django has often been the subject of scrutiny. Current state, async status, community and my humble opinion — In the ever-evolving field of web development, the Python-based framework Django has often been the subject of scrutiny.",
+        "author":"Simeon Emanuilov",
+        "createdAt":"26Feb,2024",
+        "topic":"Django",
+        "isFavourite":true,
+        "liked":true,
+        "author_img":"https://miro.medium.com/v2/resize:fill:176:176/1*1wVevQnjRLzHHakQ7_D2JA.jpeg",
+        "image":"https://miro.medium.com/v2/resize:fill:140:140/1*-Yj_vk-ViAYqPFna1RPaEw.jpeg"
+    },
+    {
+        "id":4,
+        "title":"Is Django Still Relevant in 2024?",
+        "description":"Current state, async status, community and my humble opinion — In the ever-evolving field of web development, the Python-based framework Django has often been the subject of scrutiny. Current state, async status, community and my humble opinion — In the ever-evolving field of web development, the Python-based framework Django has often been the subject of scrutiny. Current state, async status, community and my humble opinion — In the ever-evolving field of web development, the Python-based framework Django has often been the subject of scrutiny.",
+        "author":"Simeon Emanuilov",
+        "createdAt":"26Feb,2024",
+        "topic":"Django",
+        "isFavourite":true,
+        "liked":true,
+        "author_img":"https://miro.medium.com/v2/resize:fill:176:176/1*1wVevQnjRLzHHakQ7_D2JA.jpeg",
+        "image":"https://miro.medium.com/v2/resize:fill:140:140/1*-Yj_vk-ViAYqPFna1RPaEw.jpeg"
+    },
+    {
+        "id":5,
+        "title":"Is Django Still Relevant in 2024?",
+        "description":"Current state, async status, community and my humble opinion — In the ever-evolving field of web development, the Python-based framework Django has often been the subject of scrutiny. Current state, async status, community and my humble opinion — In the ever-evolving field of web development, the Python-based framework Django has often been the subject of scrutiny. Current state, async status, community and my humble opinion — In the ever-evolving field of web development, the Python-based framework Django has often been the subject of scrutiny.",
+        "author":"Simeon Emanuilov",
+        "createdAt":"26Feb,2024",
+        "topic":"Django",
+        "isFavourite":true,
+        "liked":true,
+        "author_img":"https://miro.medium.com/v2/resize:fill:176:176/1*1wVevQnjRLzHHakQ7_D2JA.jpeg",
+        "image":"https://miro.medium.com/v2/resize:fill:140:140/1*-Yj_vk-ViAYqPFna1RPaEw.jpeg"
+    }
+]

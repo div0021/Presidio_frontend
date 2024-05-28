@@ -1,0 +1,14 @@
+.wrapper{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
+.wrapper_component{
+    width: 100%;
+    max-width: 1530px;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    /* border: solid 2px red; */
+}

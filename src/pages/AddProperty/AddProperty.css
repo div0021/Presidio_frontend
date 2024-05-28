@@ -1,0 +1,104 @@
+.addP{
+    width: 100%;
+}
+
+.addP_container{
+    width: 100%;
+    padding: 2rem 3rem;
+}
+.addP_listing{
+    padding: 1rem 0;
+}
+.addP_img{
+    width: 208px;
+    border-radius: 12px;
+}
+.addP_details{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 1rem;
+    margin: 1.5rem 0;
+
+}
+
+.addP_input{
+    border: solid 1px var(--secondary);
+    border-radius: 10px;
+    padding: 5px 1rem;
+    transition: all 300ms ease-in-out;
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+    row-gap: 3px;
+}
+.addP_input:hover{
+    border-color:var(--input-border);
+}
+.addP_input:focus-within{
+    border-color:var(--input-border);
+    box-shadow: 0 0 0 1.5px white, 0 0 2px 3px var(--input-border);
+}
+.addP_input>input{
+    border: none;
+}
+.addP_input>textarea{
+    border: none;
+}
+.addP_input>input:focus{
+    outline: none;
+}
+.addP_input>textarea:focus{
+    outline: none;
+}
+.addP_input>label{
+    font-size: 12px;
+}
+.addP_input:hover>label{
+    color:var(--input-border);
+}
+.addP_input:focus-within>label{
+    color:var(--input-border);
+}
+.addP_input_check{
+    display: flex;
+    font-size: 14px;
+    justify-content: start;
+    align-items: center;
+}
+.addP_input_check > input{
+    margin-left: 0.5rem;
+    font-size: 2rem;
+}
+form > button{
+
+    padding: 1rem 5rem;
+    margin: 1rem 0;
+    border-radius: 10px;
+    border: solid 1px transparent;
+    cursor: pointer;
+    transition: all 300ms ease-in-out;
+}
+
+form > button:hover{
+    border-color: var(--input-border);
+    color: var(--input-border);
+}
+
+@media only screen  and (min-width:520px){
+    .addP_details{
+        grid-template-columns: repeat(1,1fr);
+    }
+    
+}
+@media only screen  and (min-width:720px){
+    .addP_details{
+        grid-template-columns: repeat(2,1fr);
+    }
+    
+}
+@media only screen  and (min-width:1080px){
+    .addP_details{
+        grid-template-columns: repeat(3,1fr);
+    }
+    
+}
