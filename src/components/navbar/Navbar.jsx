@@ -14,7 +14,7 @@ const Navbar = () => {
   const navigate = useNavigate();
   const [showUser,setShowUser] = useState(false);
 
-  const { currentUser, addCurrentUser } = useStore();
+  const { currentUser, addCurrentUser,removeCurrentUser } = useStore();
 
   useEffect(() => {
     const getCurrentUser = async () => {
@@ -35,8 +35,9 @@ const Navbar = () => {
 
     try{
         await axios.get(`${url}/logout`, { withCredentials: true });
+        removeCurrentUser();
         toast.success("Logout Successfully");
-        window.location.href="/";
+        navigate("/");
     }catch(error){
         console.log("Something went wrong in logout");
     }
